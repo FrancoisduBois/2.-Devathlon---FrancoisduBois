@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DevAthlon:jar">
+    <output-path>$USER_HOME$/Desktop/Bukkit server/TestServer/plugins</output-path>
+    <root id="archive" name="DevAthlon.jar">
+      <element id="module-output" name="DevAthlon" />
+    </root>
+  </artifact>
+</component>

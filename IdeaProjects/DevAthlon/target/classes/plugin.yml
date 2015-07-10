@@ -1,0 +1,13 @@
+name: DevAthlon
+version: 1.0
+author: FrancoisduBois
+
+main: me.FrancoisduBois.Main
+
+commands:
+  point:
+    description: A command to set SpawnPoint
+    aliases: [p]
+  create:
+    description: A command to create a new world
+    aliases: [c]
